@@ -21,7 +21,7 @@ Matthew L. Clarke, Robert L. Burton, A. Nayo Hill, Maritoni Litorja, Moon H. Nah
 *Correspondence should be sent to jch@nist.gov.
 
 NICE executable file download link:
-https://github.com/usnistgov/NICE-Public
+https://doi.org/10.18434/M32073
 
 For NICE MATLAB codes, please contact jch@nist.gov
  
