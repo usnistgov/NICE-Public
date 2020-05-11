@@ -1,10 +1,10 @@
 # NICE-Public
 NIST's Integrated Colony Enumerator (NICE)
 
-Version 1.3 (Development Version B.2.c, June 2018)
+Version 1.4 (Development Version B.2.c, April 2019)
 
-Created and modified, 2008-2010,
-Modified, June 2018 for Windows 7/10 64 bit compliance with MATLAB 2016b.
+Created and modified, 2008-2020,
+Modified, April 2020 for Windows 10 64 bit compliance with MATLAB 2016b.
 
 NICE was developed by:
 Matthew Clarke and Jeeseong Hwang (jch@nist.gov)
